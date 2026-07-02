@@ -77,7 +77,7 @@ Building intelligent applications with AI, React, FastAPI, and modern web techno
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark"/>
+<img src="https://streak-stats.demolab.com?user=anni1322&theme=github-dark"/>
 
 </p>
 

@@ -65,9 +65,9 @@ Building intelligent applications with AI, React, FastAPI, and modern web techno
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anni1322&show_icons=true&theme=github_dark"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anni1322&layout=compact&theme=github_dark"/>
 
 </p>
 
@@ -87,7 +87,7 @@ Building intelligent applications with AI, React, FastAPI, and modern web techno
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/anil-wasisth-6703b6253/)">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
